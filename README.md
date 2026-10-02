@@ -1,11 +1,11 @@
 # Noah-Gunville-Engineering-Portfolio
-Noah Gunville
-Mechanical Engineering Student at Georgia Tech
+# Noah Gunville
+## Mechanical Engineering Student at Georgia Tech
 
 I'm a mechanical engineering student interested in aerospace, mechanical design, and engineering analysis. I'm currently building my skills through hands-on projects involving CAD, MATLAB, and physics-based modeling.
 
-Current Project
-Rocket Descent & Drift Simulation
+## Current Project
+### Rocket Descent & Drift Simulation
 
 MATLAB | Physics-Based Modeling
 
@@ -18,10 +18,10 @@ Visualized predicted landing regions
 
 View Project
 
-Skills
+## Skills
 
 MATLAB • Onshape • CAD • Mechanical Design • Engineering Analysis
 
-Connect
+## Connect
 
-LinkedIn • Email
+www.linkedin.com/in/noahgunville • Noah@gunvilles.com
